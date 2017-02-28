@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MergeBitmaps</string>
+    <string name="action_settings">Settings</string>
+</resources>
